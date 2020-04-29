@@ -1,0 +1,549 @@
+Simulation begins...
+starting simulation.
+At time:0, part 0 arrived.
+At time:1, part 0 arrived.
+At time:2, part 0 arrived.
+At time:3, part 0 arrived.
+At time:4, part 0 arrived.
+At time:5, part 0 arrived.
+At time:6, part 0 arrived.
+At time:7, part 0 arrived.
+At time:8, part 0 arrived.
+At time:9, part 0 arrived.
+At time:10, part 0 arrived.
+At time:11, part 0 arrived.
+At time:12, part 0 arrived.
+At time:13, part 0 arrived.
+At time:14, part 0 arrived.
+At time:15, part 0 arrived.
+At time:16, part 0 arrived.
+At time:17, part 0 arrived.
+At time:18, part 0 arrived.
+At time:19, part 0 arrived.
+At time:20, part 0 arrived.
+At time:21, part 0 arrived.
+At time:22, part 0 arrived.
+At time:23, part 0 arrived.
+At time:24, part 0 arrived.
+At time:25, part 0 arrived.
+At time:26, part 0 arrived.
+At time:27, part 0 arrived.
+At time:28, part 0 arrived.
+At time:29, part 0 arrived.
+At time:30, part 0 arrived.
+At time:31, part 0 arrived.
+At time:32, part 0 arrived.
+At time:33, part 0 arrived.
+At time:34, part 0 arrived.
+At time:35, part 0 arrived.
+At time:36, part 0 arrived.
+At time:37, part 0 arrived.
+At time:38, part 0 arrived.
+At time:39, part 0 arrived.
+At time:40, part 0 arrived.
+At time:41, part 0 arrived.
+At time:42, part 0 arrived.
+At time:43, part 0 arrived.
+At time:44, part 0 arrived.
+At time:45, part 0 arrived.
+At time:46, part 0 arrived.
+At time:47, part 0 arrived.
+At time:48, part 0 arrived.
+At time:49, part 0 arrived.
+At time:50, part 1 arrived.
+At time:50, part 2 arrived.
+At time:50, startAssembly event will occur
+At time:51, part 2 arrived.
+At time:51, part 1 arrived.
+At time:51, startAssembly event will occur
+At time:60, end assembly event occurs
+At time:60, productArrival event will occur
+At time:51, startAssembly event will occur
+At time:56, end assembly event occurs
+At time:56, productArrival event will occur
+At time:61, end assembly event occurs
+At time:61, productArrival event will occur
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:100, part 2 arrived.
+At time:200, part 1 arrived.
+At time:200, startAssembly event will occur
+At time:201, part 1 arrived.
+At time:201, startAssembly event will occur
+At time:202, part 1 arrived.
+At time:202, startAssembly event will occur
+At time:203, part 1 arrived.
+At time:203, startAssembly event will occur
+At time:204, part 1 arrived.
+At time:204, startAssembly event will occur
+At time:205, part 1 arrived.
+At time:205, startAssembly event will occur
+At time:206, part 1 arrived.
+At time:206, startAssembly event will occur
+At time:207, part 1 arrived.
+At time:207, startAssembly event will occur
+At time:208, part 1 arrived.
+At time:208, startAssembly event will occur
+At time:209, part 1 arrived.
+At time:209, startAssembly event will occur
+At time:210, part 1 arrived.
+At time:210, startAssembly event will occur
+At time:210, end assembly event occurs
+At time:210, productArrival event will occur
+At time:100, startAssembly event will occur
+At time:105, end assembly event occurs
+At time:105, productArrival event will occur
+At time:100, startAssembly event will occur
+At time:105, end assembly event occurs
+At time:105, productArrival event will occur
+At time:100, startAssembly event will occur
+At time:105, end assembly event occurs
+At time:105, productArrival event will occur
+At time:100, startAssembly event will occur
+At time:105, end assembly event occurs
+At time:105, productArrival event will occur
+At time:100, startAssembly event will occur
+At time:105, end assembly event occurs
+At time:105, productArrival event will occur
+At time:100, startAssembly event will occur
+At time:105, end assembly event occurs
+At time:105, productArrival event will occur
+At time:100, startAssembly event will occur
+At time:105, end assembly event occurs
+At time:105, productArrival event will occur
+At time:100, startAssembly event will occur
+At time:105, end assembly event occurs
+At time:105, productArrival event will occur
+At time:100, startAssembly event will occur
+At time:105, end assembly event occurs
+At time:105, productArrival event will occur
+At time:100, startAssembly event will occur
+At time:105, end assembly event occurs
+At time:105, productArrival event will occur
+At time:211, part 1 arrived.
+At time:211, startAssembly event will occur
+At time:211, end assembly event occurs
+At time:211, productArrival event will occur
+At time:212, part 1 arrived.
+At time:212, startAssembly event will occur
+At time:212, end assembly event occurs
+At time:212, productArrival event will occur
+At time:213, part 1 arrived.
+At time:213, startAssembly event will occur
+At time:213, end assembly event occurs
+At time:213, productArrival event will occur
+At time:214, part 1 arrived.
+At time:214, startAssembly event will occur
+At time:214, end assembly event occurs
+At time:214, productArrival event will occur
+At time:215, part 1 arrived.
+At time:215, startAssembly event will occur
+At time:215, end assembly event occurs
+At time:215, productArrival event will occur
+At time:216, part 1 arrived.
+At time:216, startAssembly event will occur
+At time:216, end assembly event occurs
+At time:216, productArrival event will occur
+At time:217, part 1 arrived.
+At time:217, startAssembly event will occur
+At time:217, end assembly event occurs
+At time:217, productArrival event will occur
+At time:218, part 1 arrived.
+At time:218, startAssembly event will occur
+At time:218, end assembly event occurs
+At time:218, productArrival event will occur
+At time:219, part 1 arrived.
+At time:219, startAssembly event will occur
+At time:219, end assembly event occurs
+At time:219, productArrival event will occur
+At time:220, part 1 arrived.
+At time:220, startAssembly event will occur
+At time:220, end assembly event occurs
+At time:220, productArrival event will occur
+At time:221, part 1 arrived.
+At time:221, startAssembly event will occur
+At time:221, end assembly event occurs
+At time:221, productArrival event will occur
+At time:222, part 1 arrived.
+At time:222, startAssembly event will occur
+At time:222, end assembly event occurs
+At time:222, productArrival event will occur
+At time:223, part 1 arrived.
+At time:223, startAssembly event will occur
+At time:223, end assembly event occurs
+At time:223, productArrival event will occur
+At time:224, part 1 arrived.
+At time:224, startAssembly event will occur
+At time:224, end assembly event occurs
+At time:224, productArrival event will occur
+At time:225, part 1 arrived.
+At time:225, startAssembly event will occur
+At time:225, end assembly event occurs
+At time:225, productArrival event will occur
+At time:226, part 1 arrived.
+At time:226, startAssembly event will occur
+At time:226, end assembly event occurs
+At time:226, productArrival event will occur
+At time:227, part 1 arrived.
+At time:227, startAssembly event will occur
+At time:227, end assembly event occurs
+At time:227, productArrival event will occur
+At time:228, part 1 arrived.
+At time:228, startAssembly event will occur
+At time:228, end assembly event occurs
+At time:228, productArrival event will occur
+At time:229, part 1 arrived.
+At time:229, startAssembly event will occur
+At time:229, end assembly event occurs
+At time:229, productArrival event will occur
+At time:230, part 1 arrived.
+At time:230, startAssembly event will occur
+At time:230, end assembly event occurs
+At time:230, productArrival event will occur
+At time:231, part 1 arrived.
+At time:231, startAssembly event will occur
+At time:231, end assembly event occurs
+At time:231, productArrival event will occur
+At time:232, part 1 arrived.
+At time:232, startAssembly event will occur
+At time:232, end assembly event occurs
+At time:232, productArrival event will occur
+At time:233, part 1 arrived.
+At time:233, startAssembly event will occur
+At time:233, end assembly event occurs
+At time:233, productArrival event will occur
+At time:234, part 1 arrived.
+At time:234, startAssembly event will occur
+At time:234, end assembly event occurs
+At time:234, productArrival event will occur
+At time:235, part 1 arrived.
+At time:235, startAssembly event will occur
+At time:235, end assembly event occurs
+At time:235, productArrival event will occur
+At time:236, part 1 arrived.
+At time:236, startAssembly event will occur
+At time:236, end assembly event occurs
+At time:236, productArrival event will occur
+At time:237, part 1 arrived.
+At time:237, startAssembly event will occur
+At time:237, end assembly event occurs
+At time:237, productArrival event will occur
+At time:238, part 1 arrived.
+At time:238, startAssembly event will occur
+At time:238, end assembly event occurs
+At time:238, productArrival event will occur
+At time:239, part 1 arrived.
+At time:239, startAssembly event will occur
+At time:239, end assembly event occurs
+At time:239, productArrival event will occur
+At time:240, end assembly event occurs
+At time:240, productArrival event will occur
+At time:241, end assembly event occurs
+At time:241, productArrival event will occur
+At time:242, end assembly event occurs
+At time:242, productArrival event will occur
+At time:243, end assembly event occurs
+At time:243, productArrival event will occur
+At time:244, end assembly event occurs
+At time:244, productArrival event will occur
+At time:245, end assembly event occurs
+At time:245, productArrival event will occur
+At time:246, end assembly event occurs
+At time:246, productArrival event will occur
+At time:247, end assembly event occurs
+At time:247, productArrival event will occur
+At time:248, end assembly event occurs
+At time:248, productArrival event will occur
+At time:249, end assembly event occurs
+At time:249, productArrival event will occur
+At time:500, part 1 arrived.
+At time:500, startAssembly event will occur
+At time:505, part 1 arrived.
+At time:505, startAssembly event will occur
+At time:510, part 1 arrived.
+At time:510, startAssembly event will occur
+At time:510, end assembly event occurs
+At time:510, productArrival event will occur
+At time:513, part 1 arrived.
+At time:513, startAssembly event will occur
+At time:515, end assembly event occurs
+At time:515, productArrival event will occur
+At time:520, part 2 arrived.
+At time:520, end assembly event occurs
+At time:520, productArrival event will occur
+At time:523, end assembly event occurs
+At time:523, productArrival event will occur
+At time:525, part 2 arrived.
+At time:533, part 2 arrived.
+At time:541, part 1 arrived.
+At time:541, startAssembly event will occur
+At time:546, part 2 arrived.
+At time:551, end assembly event occurs
+At time:551, productArrival event will occur
+At time:533, startAssembly event will occur
+At time:538, end assembly event occurs
+At time:538, productArrival event will occur
+At time:546, startAssembly event will occur
+At time:551, end assembly event occurs
+At time:551, productArrival event will occur
+At time:552, part 0 arrived.
+At time:554, part 0 arrived.
+At time:555, part 1 arrived.
+At time:555, startAssembly event will occur
+At time:562, part 2 arrived.
+At time:565, end assembly event occurs
+At time:565, productArrival event will occur
+At time:567, part 0 arrived.
+At time:568, part 0 arrived.
+At time:573, part 0 arrived.
+At time:578, part 2 arrived.
+At time:586, part 0 arrived.
+At time:587, part 2 arrived.
+At time:591, part 1 arrived.
+At time:591, startAssembly event will occur
+At time:594, part 2 arrived.
+At time:597, part 2 arrived.
+At time:601, end assembly event occurs
+At time:601, productArrival event will occur
+At time:587, startAssembly event will occur
+At time:592, end assembly event occurs
+At time:592, productArrival event will occur
+At time:602, part 2 arrived.
+At time:606, part 2 arrived.
+At time:607, part 1 arrived.
+At time:607, startAssembly event will occur
+At time:610, part 0 arrived.
+At time:610, startAssembly event will occur
+At time:615, part 1 arrived.
+At time:615, startAssembly event will occur
+At time:617, end assembly event occurs
+At time:617, productArrival event will occur
+At time:597, startAssembly event will occur
+At time:602, end assembly event occurs
+At time:602, productArrival event will occur
+At time:602, startAssembly event will occur
+At time:607, end assembly event occurs
+At time:607, productArrival event will occur
+At time:619, part 0 arrived.
+At time:620, end assembly event occurs
+At time:620, productArrival event will occur
+At time:622, part 1 arrived.
+At time:622, startAssembly event will occur
+At time:625, end assembly event occurs
+At time:625, productArrival event will occur
+At time:628, part 2 arrived.
+At time:631, part 1 arrived.
+At time:631, startAssembly event will occur
+At time:632, end assembly event occurs
+At time:632, productArrival event will occur
+At time:636, part 2 arrived.
+At time:640, part 0 arrived.
+At time:641, end assembly event occurs
+At time:641, productArrival event will occur
+At time:644, part 1 arrived.
+At time:644, startAssembly event will occur
+At time:649, part 0 arrived.
+At time:649, startAssembly event will occur
+At time:652, part 1 arrived.
+At time:652, startAssembly event will occur
+At time:654, end assembly event occurs
+At time:654, productArrival event will occur
+At time:659, end assembly event occurs
+At time:659, productArrival event will occur
+At time:660, part 1 arrived.
+At time:660, startAssembly event will occur
+At time:662, end assembly event occurs
+At time:662, productArrival event will occur
+At time:665, part 0 arrived.
+At time:670, end assembly event occurs
+At time:670, productArrival event will occur
+At time:672, part 2 arrived.
+At time:676, part 2 arrived.
+At time:678, part 0 arrived.
+At time:679, part 2 arrived.
+At time:682, part 0 arrived.
+At time:686, part 2 arrived.
+At time:692, part 0 arrived.
+At time:694, part 1 arrived.
+At time:694, startAssembly event will occur
+At time:698, part 1 arrived.
+At time:698, startAssembly event will occur
+At time:702, part 0 arrived.
+At time:702, startAssembly event will occur
+At time:704, end assembly event occurs
+At time:704, productArrival event will occur
+At time:676, startAssembly event will occur
+At time:681, end assembly event occurs
+At time:681, productArrival event will occur
+At time:679, startAssembly event will occur
+At time:684, end assembly event occurs
+At time:684, productArrival event will occur
+At time:686, startAssembly event will occur
+At time:691, end assembly event occurs
+At time:691, productArrival event will occur
+At time:708, part 2 arrived.
+At time:708, end assembly event occurs
+At time:708, productArrival event will occur
+At time:711, part 0 arrived.
+At time:712, end assembly event occurs
+At time:712, productArrival event will occur
+At time:714, part 1 arrived.
+At time:714, startAssembly event will occur
+At time:721, part 1 arrived.
+At time:721, startAssembly event will occur
+At time:724, end assembly event occurs
+At time:724, productArrival event will occur
+At time:726, part 0 arrived.
+At time:726, startAssembly event will occur
+At time:731, end assembly event occurs
+At time:731, productArrival event will occur
+At time:734, part 2 arrived.
+At time:736, end assembly event occurs
+At time:736, productArrival event will occur
+At time:738, part 1 arrived.
+At time:738, startAssembly event will occur
+At time:742, part 2 arrived.
+At time:748, part 2 arrived.
+At time:748, end assembly event occurs
+At time:748, productArrival event will occur
+At time:748, startAssembly event will occur
+At time:753, end assembly event occurs
+At time:753, productArrival event will occur
+At time:756, part 0 arrived.
+At time:762, part 0 arrived.
+At time:770, part 1 arrived.
+At time:770, startAssembly event will occur
+At time:772, part 0 arrived.
+At time:772, startAssembly event will occur
+At time:777, part 0 arrived.
+At time:777, startAssembly event will occur
+At time:778, part 0 arrived.
+At time:778, startAssembly event will occur
+At time:780, end assembly event occurs
+At time:780, productArrival event will occur
+At time:782, end assembly event occurs
+At time:782, productArrival event will occur
+At time:783, part 0 arrived.
+At time:784, part 2 arrived.
+At time:785, part 1 arrived.
+At time:785, startAssembly event will occur
+At time:787, end assembly event occurs
+At time:787, productArrival event will occur
+At time:788, part 0 arrived.
+At time:788, end assembly event occurs
+At time:788, productArrival event will occur
+At time:794, part 2 arrived.
+At time:795, end assembly event occurs
+At time:795, productArrival event will occur
+At time:802, part 1 arrived.
+At time:802, startAssembly event will occur
+At time:810, part 0 arrived.
+At time:810, startAssembly event will occur
+At time:812, part 0 arrived.
+At time:812, startAssembly event will occur
+At time:812, end assembly event occurs
+At time:812, productArrival event will occur
+At time:818, part 2 arrived.
+At time:820, end assembly event occurs
+At time:820, productArrival event will occur
+At time:822, part 0 arrived.
+At time:822, end assembly event occurs
+At time:822, productArrival event will occur
+At time:829, part 1 arrived.
+At time:829, startAssembly event will occur
+At time:836, part 2 arrived.
+At time:839, end assembly event occurs
+At time:839, productArrival event will occur
+At time:840, part 2 arrived.
+At time:846, part 2 arrived.
+At time:850, part 1 arrived.
+At time:850, startAssembly event will occur
+At time:857, part 2 arrived.
+At time:859, part 0 arrived.
+At time:859, startAssembly event will occur
+At time:860, end assembly event occurs
+At time:860, productArrival event will occur
+At time:846, startAssembly event will occur
+At time:851, end assembly event occurs
+At time:851, productArrival event will occur
+At time:857, startAssembly event will occur
+At time:862, end assembly event occurs
+At time:862, productArrival event will occur
+At time:866, part 1 arrived.
+At time:866, startAssembly event will occur
+At time:869, end assembly event occurs
+At time:869, productArrival event will occur
+At time:871, part 0 arrived.
+At time:875, part 0 arrived.
+At time:876, end assembly event occurs
+At time:876, productArrival event will occur
+At time:880, part 2 arrived.
+At time:883, part 0 arrived.
+At time:890, part 2 arrived.
+At time:895, part 0 arrived.
+At time:899, part 2 arrived.
+At time:903, part 1 arrived.
+At time:903, startAssembly event will occur
+At time:908, part 1 arrived.
+At time:908, startAssembly event will occur
+At time:913, end assembly event occurs
+At time:913, productArrival event will occur
+At time:890, startAssembly event will occur
+At time:895, end assembly event occurs
+At time:895, productArrival event will occur
+At time:899, startAssembly event will occur
+At time:904, end assembly event occurs
+At time:904, productArrival event will occur
+At time:918, end assembly event occurs
+At time:918, productArrival event will occur
+At time:1000, part 1 arrived.
+
+printing Statistics:
+Total completely assembled product is: 73
+AverageTime is: 372.959
+PartZero left with: 51 items
+PartOne left with: 1 items
+PartTwo left with: 0 items
+Partially Assembled product left with: 7 items
+
+...All Assembly complete.  Final Summary:
+
+
+End of processing.
